@@ -11,7 +11,7 @@
  - ver la formula 1
  - hacer karate (cuando los horarios de la facultad lo permiten)
 
-##Foto de Presentacion
+## Foto de Presentacion
 !["foto de mi (soy el de la izquierda)"](FotoDePresentacion.JPG)
 Aclaracion: soy el de la izquierda :)
 
